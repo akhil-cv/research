@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8
+,Table 1,,,,,,,
+,Outcome,,,Cash Financing,,,Synthetic Financing,
+"Value of stock
+increases from
+$25,000 to
+$28,000",,,"- Stock is sold for $28,000
+- Client repays CS $20,000 plus
+interest
+- Client earns $3,000 profit (less
+interest) on $5,000 investment
+- CS earns agreed-upon interest",,,"- CS pays client $3,000 (less interest)17
+and returns $5,000 investment
+- CS sells stock hedge for $28,000
+- Client earns $3,000 profit (less
+interest) on $5000 investment
+- CS loss on client-facing TRS is offset
+by gain on market-facing stock hedge
+- CS earns agreed-upon interest",,
+"Value of stock
+decreases from
+$25,000 to
+$22,000",,,"- Stock is sold for $22,000
+- Client repays CS $20,000 plus
+interest
+- Client loses $3,000 plus interest on
+$5,000 investment
+- CS earns agreed-upon interest",,,"- Client pays CS $3,000 (plus interest)18
+and returns $5,000 investment
+- CS sells stock for $22,000
+- Client loses $3,000 plus interest on
+$5000 investment and CS returns
+$5,000 investment
+- CS gain on client-facing TRS is offset
+by loss on market-facing stock hedge
+- CS earns agreed-upon interest",,
